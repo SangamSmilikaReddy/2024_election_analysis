@@ -40,6 +40,12 @@ The following pie chart shows the percentage of votes won by each party in the e
 
 ![Percentage of Votes Won by Each Party](percentage_votes_won_by_party.png)
 
+### 3. Number of MPs Who Won with Majority Votes Above Various Thresholds
+
+The following bar chart shows the number of MPs who won with a majority of more than 5,000, 10,000, 15,000, and 25,000 votes.
+
+![Number of MPs Who Won with Majority Votes Above Various Thresholds](majority_votes_thresholds.png)
+
 ## How to Run
 
 1. Clone the repository.
