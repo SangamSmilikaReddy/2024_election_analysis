@@ -28,9 +28,17 @@ The analysis counts the total number of candidates that stood for each party and
 
 ## Graphs
 
+### 1. Number of Candidates Stood and Won by BJP and Congress
+
 The following graph shows the number of candidates that stood and won for BJP and Congress:
 
 ![BJP and Congress Candidates](bjp_congress_candidates.png)
+
+### 2. Percentage of Votes Won by Each Party
+
+The following pie chart shows the percentage of votes won by each party in the election.
+
+![Percentage of Votes Won by Each Party](percentage_votes_won_by_party.png)
 
 ## How to Run
 
