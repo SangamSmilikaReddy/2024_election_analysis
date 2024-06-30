@@ -28,9 +28,23 @@ The analysis counts the total number of candidates that stood for each party and
 
 ## Graphs
 
+### 1. Number of Candidates Stood and Won by BJP and Congress
+
 The following graph shows the number of candidates that stood and won for BJP and Congress:
 
 ![BJP and Congress Candidates](bjp_congress_candidates.png)
+
+### 2. Percentage of Votes Won by Each Party
+
+The following pie chart shows the percentage of votes won by each party in the election.
+
+![Percentage of Votes Won by Each Party](percentage_votes_won_by_party.png)
+
+### 3. Number of MPs Who Won with Majority Votes Above Various Thresholds
+
+The following bar chart shows the number of MPs who won with a majority of more than 5,000, 10,000, 15,000, and 25,000 votes.
+
+![Number of MPs Who Won with Majority Votes Above Various Thresholds](majority_votes_thresholds.png)
 
 ## How to Run
 
